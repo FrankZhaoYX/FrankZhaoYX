@@ -19,4 +19,25 @@
                     **JAVA** – Experienced in data transformation, ETL, and object-oriented programming (OOP).
 * SQL: Proficient in writing complex analytical queries, including window functions, subqueries, and joins.
 * BASH: Familiar with Git commands and basic Unix systems.
-* Web Development: Knowledgeable in the “classic” web stack (JavaScript, HTML, CSS, SQL) and the Java EE stack (Java + SQL).
+* Web Development: Knowledgeable in the “classic” web stack (JavaScript, HTML, CSS, SQL, JAVAEE).
+
+#### Python Libraries and Frameworks
+
+The following non-exhaustive list shows some libraries I've used for some projects:
+
+| Tasks| Libraries |
+|-----| ----|
+| Data Manipulation & Transformation| ![Pandas Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Polars Badge](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) |   
+| Data Visualization| ![Plotly Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge) ![Altair Badge](https://img.shields.io/badge/Altair-darkblue?style=for-the-badge) ![Seaborn Badge](https://img.shields.io/badge/Seaborn-lightblue?style=for-the-badge)   |   
+| Data Mining| ![Beautiful Soup Badge](https://img.shields.io/badge/Beautiful_Soup-blue?style=for-the-badge) ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) |
+<!-- | Geospatial analysis| ![GeoPandas Badge](https://img.shields.io/badge/Geopandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white) ![Folium Badge](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white) ![Shapely Badge](https://img.shields.io/badge/Shapely-f5f5f5?style=for-the-badge) ![Fiona Badge](https://img.shields.io/badge/Fiona-f5f5f5?style=for-the-badge) |   
+| ML, DeepLearning, LLM apps| ![SK Learn Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Langchain Badge](https://img.shields.io/badge/Langchain-darkgreen?style=for-the-badge) ![Hugging Face Badge](https://img.shields.io/badge/🤗-Transformers-yellow?style=for-the-badge) |   
+| Application builders| ![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Taipy Badge](https://img.shields.io/badge/Taipy-red?style=for-the-badge) |   
+| Others| ![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![NetworkX Badge](https://img.shields.io/badge/NetworkX-orange?style=for-the-badge)| -->
+
+### Databases
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- ![Netezza Badge](https://img.shields.io/badge/🛢-Netezza-f5f5f5?style=for-the-badge)
+![SQLite Badge](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![DuckDB Badge](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=DuckDB&logoColor=black) -->
