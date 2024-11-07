@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yixi Zhao</h1>
-
-👋 Welcome to my GitHub page! I'm Yixi.  
+<h2 align="center">👋 Welcome to my GitHub page! I'm Yixi. </h2> 
 🎓 I hold a Bachelor’s degree in Computer Science from York University and am currently pursuing a thesis-based Master’s in Software Engineering at the University of Waterloo.  
 📈 My journey into data engineering began during my first co-op with the Data Automation team at Blackberry, where I was introduced to cloud technologies and big data experience that helped define my career goals.  
 🌍 Check out my personal [Portfolio](https://frankzhaoyx.github.io/).  
@@ -16,4 +15,8 @@
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-
+* Primary Language: **Python** – Skilled in data analysis, visualization, ETL processes, and implementing machine learning libraries.
+                    **JAVA** – Experienced in data transformation, ETL, and object-oriented programming (OOP).
+* SQL: Proficient in writing complex analytical queries, including window functions, subqueries, and joins.
+* BASH: Familiar with Git commands and basic Unix systems.
+* Web Development: Knowledgeable in the “classic” web stack (JavaScript, HTML, CSS, SQL) and the Java EE stack (Java + SQL).
